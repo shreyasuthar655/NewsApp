@@ -1,0 +1,89 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "'Dune' fan breaks down his homemade sandworm from viral video",
+      "description": "The 'Dune' fan who rode a homemade sandworm into a movie theater breaks down how (and why) he made the now-viral custom ride: 'The thought popped into my head… it’d be so f---ing funny to ride a worm'",
+      "url": "https://ew.com/dune-fan-breaks-down-homemade-sandworm-from-viral-video-8604179",
+      "urlToImage": "https://ew.com/thmb/uXEFkSGkDYdfNByGiQQ5qwhTlTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dune-sandworm-cosplay333-03042024-afe445fc4dc045e9bba5417d0bb7afbd.jpg",
+      "publishedAt": "2024-03-05T04:07:14.2073702Z",
+      "content": "An Oklahoma moviegoer took the internet by (sand)storm when he arrived to his local multiplex riding a homemade sandworm to celebrate the release of Dune: Part Two.\r\nJesse Myer, a social media conten… [+2995 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Bradford Betz",
+      "title": "Pro-Palestinian protesters accost AOC outside movie theater, demand she call Israel-Hamas war a ‘genocide’",
+      "description": "Pro-Palestinian protesters on Monday accosted Rep. Alexandria Ocasio-Cortez, D-N.Y. outside a movie theater and demanded that she call Israel’s offensive in Gaza a “genocide.\"",
+      "url": "https://www.foxnews.com/politics/pro-palestinian-protesters-accost-aoc-movie-theater-demand-she-call-israel-hamas-war-genocide",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/AOC-FNTV.jpg",
+      "publishedAt": "2024-03-05T01:38:21Z",
+      "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+2995 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Michael McWhertor",
+      "title": "Dune survival MMO devs release new details, first gameplay trailer",
+      "description": "Dune: Awakening takes the look and feel of the movies and turns them into a politically charged survival crafting MMO.",
+      "url": "https://www.polygon.com/24090204/dune-awakening-survival-game-2024",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/iigDkjp-7N03ouIvFuSDGUmrjpc=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25317754/dune_awakening_sandworm.jpg",
+      "publishedAt": "2024-03-04T18:40:00Z",
+      "content": "Dune: Awakening looks to fulfill all Dune-related power fantasies"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Caroline Bologna",
+      "title": "This Sci-Fi Sequel Is The Top Movie On Netflix Right Now",
+      "description": "A new sports documentary and a superhero movie are also trending on streaming services like Max, Apple TV+, Hulu and Amazon Prime Video.",
+      "url": "https://www.huffpost.com/entry/code-8-part-ii-popular-netflix-movies_l_65e556f0e4b0d2a24759e77c",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65e571a32300005400656518.jpg?cache=dDxsJogeYm&ops=1200_630",
+      "publishedAt": "2024-03-04T14:53:34Z",
+      "content": "Code 8: Part II is the most popular movie on Netflix, according to the streaming services public ranking system.\r\nThe sci-fi action film premiered on Feb. 28 and is a sequel to 2019s Code 8. Cousins … [+3855 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Toussaint Egan",
+      "title": "Anime Awards 2024 winners list: Jujutsu Kaisen wins Best Anime",
+      "description": "This year’s Crunchyroll Anime Awards made room for JJK season 2, Demon Slayer, Attack on Titan, and more. Here are all the winning anime series and movies.",
+      "url": "https://www.polygon.com/anime/24084825/anime-awards-2024-winners-list-jujutsu-kaisen-demon-slayer-chainsaw-man",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qQ8l7mB2x0xv3In2192EaZE-kwM=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25314380/25148834.jpg",
+      "publishedAt": "2024-03-02T13:07:03Z",
+      "content": "Crunchyroll has announced the winners of the 2024 Anime Awards, the annual awards ceremony hosted in Japan to honor and celebrate the best shows, voice actors, animators, musicians, and creators of t… [+3099 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Austen Goslin",
+      "title": "The Strangers: Chapter 1, a remake that looks scarier than the original",
+      "description": "The Strangers: Chapter 1 remakes the original movie, but looks pretty creepy on its own in new trailer. It’s coming to theaters on May 17, with 2 sequels coming",
+      "url": "https://www.polygon.com/24087759/strangers-remake-chapter-1-release-date-trailer-sequels-original",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zmZRZS_4WdM-wsZBSENuiVGTKB8=/0x0:1526x799/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25313416/The_Strangers_chapter_1.png",
+      "publishedAt": "2024-03-01T20:06:35Z",
+      "content": "And there are already two sequels on the way"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Collier Jennings",
+      "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+      "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+      "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+      "publishedAt": "2022-09-01T18:03:14Z",
+      "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+    },
+    {
+      "source": { "id": "techcrunch-cn", "name": "TechCrunch (CN)" },
+      "author": "Brian Heater",
+      "title": "盘点 2019 年消失的明星创业公司 | TechCrunch 中文版",
+      "description": "创业公司会因为各种原因而失败，但有一点不会改变：创业是极其困难的事。想要创办一家成功的公司，需要的不仅仅是热情，以及找到合适的人才（尽管很明显这两点很重要）。成功的创业者需要在许许多多细节上做到完美。\r\n\r\n粗略地回顾下今年的创业公司，可以发现并没有什么公司能带来像去年Theranos那样的轰动性故事。Theranos的故事被写成了畅销书，改编成了纪录片，相关电影也即将上映。不过某些公司，例如MoviePass，可能已经逐渐接近。\r\n\r\n通常来说，每看到一家Theranos，我们同时也会看到数十位辛勤创业者的故事…",
+      "url": "https://techcrunch.cn/2019/12/27/startups-lost-in-2019/",
+      "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-829632570.jpg?w=1200",
+      "publishedAt": "2019-12-27T16:46:58Z",
+      "content": "Theranos Theranos MoviePass\r\n Theranos\r\n 2019 \r\nAnki2010 2019 \r\n1.82 \r\n2013 WWDC Overdrive iPhone \r\n3 Anki CozmoAnki 2018 Vector 2019 4 Anki 150 “”Cozmo \r\nChariot2014 2019 \r\n300 2017 \r\nChariot “” \r\n … [+1085 chars]"
+    }
+  ]
+}
